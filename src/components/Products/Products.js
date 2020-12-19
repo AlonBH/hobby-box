@@ -7,10 +7,10 @@ export default (props) => {
   return (
     <div className={classes.Products}>
       <Product />
-      {/* <Product />
       <Product />
       <Product />
-      <Product /> */}
+      <Product />
+      <Product /> 
     </div>
   )
 }
