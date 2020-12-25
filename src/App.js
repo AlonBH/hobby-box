@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
 import Layout from './hoc/Layout/Layout';
-import Products from './components/Products/Products';
+import Home from './home/home';
 
 class App extends Component {
   render () {
     return (
       <Layout>
-        <Products />
+        <Home />
       </Layout>
     );
   }

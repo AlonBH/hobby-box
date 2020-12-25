@@ -1,6 +1,8 @@
 .Products {
   display: flex;
+  padding: 50px 20px;
   justify-content: space-around;
   flex-wrap: wrap;
-  background-image: url("../../assets/images/background.jpg");
+  background-color: white;
+  border-radius: 4px;
 }
