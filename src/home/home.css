@@ -1,8 +1,5 @@
 .Home {
     position: absolute;
     background-color: #e1f5fe;
-}
-
-.ProductsContainer {
-    margin: 100px 50px 0 50px;
+    padding: 20px;
 }
