@@ -1,0 +1,17 @@
+.Products {
+  display: flex;
+<<<<<<< Updated upstream
+  padding: 50px 20px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: white;
+  border-radius: 4px;
+=======
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 30px;
+  flex-wrap: wrap;
+  background-image: url("../../assets/images/background - Copy.jpg");
+>>>>>>> Stashed changes
+}

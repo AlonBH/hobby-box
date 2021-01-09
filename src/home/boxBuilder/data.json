@@ -1,0 +1,31 @@
+{
+    "lanes": [
+        {
+            "id": "products",
+            "title": "Choose Crafts",
+            "droppable": false,
+            "cards": [
+                {
+                    "id": "Card1",
+                    "title": "Origami Swan",
+                    "description": "Fold paper like a pro",
+                    "label": "30 mins",
+                    "price": 5
+                },
+                {
+                    "id": "Card2",
+                    "title": "Door Sign",
+                    "description": "Make your own welcome sign",
+                    "label": "25 mins",
+                    "price": 7
+                }
+            ]
+        },
+        {
+            "id": "cart",
+            "title": "My Hobby Box",
+            "label": "0 $",
+            "cards": []
+        }
+    ]
+}
